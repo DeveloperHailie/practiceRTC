@@ -1,3 +1,7 @@
+<img src="https://millo-l.github.io/static/017a91d3df72ed6117dcdb47fab3c810/21b4d/webrtc-server.png" width="80%">
+
+[사진 출처](https://millo-l.github.io/WebRTC-%EA%B5%AC%ED%98%84-%EB%B0%A9%EC%8B%9D-Mesh-SFU-MCU)
+
 ## Signaling 서버 (Mesh)
 - peer간의 session signal(offer, answer)만을 중계
 - 처음에 pper간의 정보 중계할 때만 서버 과부화, peer 간 연결 완료 후에는 서버에 별도 부하 없음
@@ -24,4 +28,6 @@
 - 클라이언트의 부하가 현저히 줄어들지만, 서버의 높은 컴퓨팅 파워가 요구된다.
 - WebRTC의 최대 장점인 실시간성이 저해되며, 데이터를 결합하는 과정에서 비용이 많이 든다.
 
-[참고] https://millo-l.github.io/WebRTC-%EA%B5%AC%ED%98%84-%EB%B0%A9%EC%8B%9D-Mesh-SFU-MCU/
+<br>
+[참고1](https://millo-l.github.io/WebRTC-%EA%B5%AC%ED%98%84-%EB%B0%A9%EC%8B%9D-Mesh-SFU-MCU/) <br/>
+[참고2](https://surprisecomputer.tistory.com/14)
